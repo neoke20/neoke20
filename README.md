@@ -14,7 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-- 🏢 Currently working as a UI designer for an awesome Japanese company (if you're into learning Japanese, check us out: www.genkijacs.com)
+- 🏢 Currently working as a full stack dev for an awesome Japanese company.
+- 🌱 I’m learning python and django at the moment
 - 🎓 Looking to work on projects where I will learn more about TypeScript, React.js and Vue.js
 - 💬 Ask me about Japan 🗾
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/konczakkevin/)
