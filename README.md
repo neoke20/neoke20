@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🏢 Currently working as a full stack dev for an awesome Japanese company.
-- 🌱 I’m learning python and django at the moment
-- 🎓 Looking to work on projects where I will learn more about TypeScript, React.js and Vue.js
+- 🔭 I’m currently working on [たびつく](https://www.tabitsuku.jp/)
+- 🎓 Looking to work on projects where I will learn more about TypeScript, React, Python, and Remix
 - 💬 Ask me about Japan 🗾
 - 📫 Contact me on [LinkedIn](https://www.linkedin.com/in/konczakkevin/)
